@@ -1,4 +1,4 @@
-W# ADmyBRAND AI Suite - Modern SaaS Landing Page
+# ADmyBRAND AI Suite - Modern SaaS Landing Page
 
 A stunning, modern landing page for "ADmyBRAND AI Suite" - a fictional AI-powered marketing platform. Built with Next.js 14+, TypeScript, Tailwind CSS, and Framer Motion.
 
