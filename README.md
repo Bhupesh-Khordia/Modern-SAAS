@@ -1,4 +1,4 @@
-# ADmyBRAND AI Suite - Modern SaaS Landing Page
+W# ADmyBRAND AI Suite - Modern SaaS Landing Page
 
 A stunning, modern landing page for "ADmyBRAND AI Suite" - a fictional AI-powered marketing platform. Built with Next.js 14+, TypeScript, Tailwind CSS, and Framer Motion.
 
@@ -40,7 +40,7 @@ A stunning, modern landing page for "ADmyBRAND AI Suite" - a fictional AI-powere
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Bhupesh-Khordia/Modern-SAAS
    cd Modern-SAAS
    ```
 
@@ -77,14 +77,7 @@ A stunning, modern landing page for "ADmyBRAND AI Suite" - a fictional AI-powere
 
 ## 🚀 Deployment
 
-### Vercel (Recommended)
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy automatically
-
-### Netlify
-1. Build the project: `npm run build`
-2. Deploy the `out` directory to Netlify
+### Vercel - https://modern-saas-one.vercel.app/
 
 ## 📁 Project Structure
 
@@ -214,7 +207,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🆘 Support
 
-For support, email hello@admybrand.com or create an issue in the repository.
+For support, email bhupeshy510@gmail.com or create an issue in the repository.
 
 ---
 
